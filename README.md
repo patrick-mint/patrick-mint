@@ -25,7 +25,7 @@
 
 - [My Portfolio](https://patrick-mint.github.io/)
 - [Toms Pickup](https://patrick-mint.github.io/Tomspickup/)
-- [Talently Project](http://54.179.56.185/)
+- [Talently Project](http://18.141.199.111/)
 - [Weather Application](https://patrick-mint.github.io/Weather-App/)
 - [Responsive Picture](https://patrick-mint.github.io/Responsive_Picture/)
 
