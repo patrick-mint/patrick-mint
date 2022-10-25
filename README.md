@@ -1,7 +1,7 @@
 <img src="https://github.com/patrick-mint/patrick-mint/blob/32632f7ecc7d455874900b3623dffb944144c92e/Profile.png" alt="profile">
 
-<h1 align="center">Hi 👋, I'm Mint</h1>
-<h3 align="center">A passionate Backend Developer from Thailand</h3>
+<h1 align="center">Hi 👋, I'm Patrick from Thailand</h1>
+
 <br></br>
 📫 How to reach me **pakornpat.a@gmail.com**
 <br></br>
