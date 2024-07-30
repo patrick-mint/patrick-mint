@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patrick from Thailand</h1>
-
 <br></br>
-📫 How to reach me **pakornpat.a@gmail.com**
+📫 Reach me at **pakornpat.a@gmail.com**
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
 
