@@ -1,5 +1,4 @@
-<br></br>
-📫 Reach me at **pakornpat.a@gmail.com**
+My Name is Pakornpat Amornlertpanit, please reach me at **pakornpat.a@gmail.com**
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
 
