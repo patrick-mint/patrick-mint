@@ -4,7 +4,7 @@ My Name is Pakornpat Amornlertpanit, please reach me at **pakornpat.a@gmail.com*
 
 - [My Portfolio](https://patrick-mint.github.io/)
 - [Toms Pickup](https://patrick-mint.github.io/Tomspickup/)
-- [Talently Project](http://18.141.199.111/)
+- [Fintrack-Lite](https://patrick-mint.github.io/fintrack-lite//)
 - [Weather Application](https://patrick-mint.github.io/Weather-App/)
 - [Responsive Picture](https://patrick-mint.github.io/Responsive_Picture/)
 
